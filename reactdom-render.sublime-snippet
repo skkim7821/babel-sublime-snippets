@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ReactDOM.renders(${1:});
+]]></content>
+    <tabTrigger>rdr</tabTrigger>
+    <scope>source.js</scope>
+    <description>react-dom render</description>
+</snippet>
