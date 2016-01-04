@@ -47,6 +47,7 @@ To set a key binding, go to "Preferences: Key Bindings - User" from the Command 
 | `imr→`   | `import React from 'react'` |
 | `imrd→`  | `import ReactDOM from 'react-dom'` |
 | `6rec→`  | `class component` |
+| `rdr→`   | `ReactDOM.render()` |
 
 
 ## Notes
